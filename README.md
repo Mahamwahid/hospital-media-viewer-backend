@@ -9,7 +9,7 @@ This project serves as the backend for the Hospital Media Viewer, developed usin
 To set up this project locally, follow these steps:
 1. Clone the repository using the following command:
    
-   git clone https://github.com/your-username/hospital-media-viewer-backend.git
+   git clone https://github.com/Mahamwahid/hospital-media-viewer-backend.git
    
 2. After cloning, navigate to the project directory:
    
