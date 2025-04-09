@@ -18,7 +18,7 @@ To set up this project locally, follow these steps:
 ### 2. Install Dependencies
 Run the following command to install the necessary dependencies:
 
-npm install
+    npm install
 
   ###   3. Create a '.env' file with the following:
   PORT =5000
@@ -27,11 +27,12 @@ npm install
 
   ### 4. Run the server:
   In development: npm run dev  --> visit: http://localhost:5000/health
+  
   In production: npm start
 
  ### 5.Health Check Endpoint
 
- You can test is the server is running by using the following link:
+ You can test if the server is running by using the following link:
 
  http://localhost:5000/health
 
